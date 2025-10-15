@@ -6,8 +6,6 @@ Sou um desenvolvedor apaixonado por **TypeScript**, com foco na construção de 
 
 ---
 
----
-
 ### 🔥 Estatísticas e Linguagens Favoritas
 
 Aqui você pode ver um pouco sobre meu esforço e as tecnologias que mais utilizo (as estatísticas são geradas dinamicamente):
@@ -59,9 +57,9 @@ Estou ativamente buscando novas oportunidades em **Angular** ou **React** e dese
 
 ### 📧 Contato
 
-| Plataforma | Detalhes |
-| :--- | :--- |
-| **Email** | [e.deanmb@gmail.com](mailto:e.deanmb@gmail.com) |
+| Plataforma   | Detalhes                                                                                                                                                                     |
+| :----------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Email**    | [e.deanmb@gmail.com](mailto:e.deanmb@gmail.com)                                                                                                                              |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-dean) |
 
 ---
