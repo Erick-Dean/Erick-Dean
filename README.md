@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou Erick Dean, Desenvolvedor Web Front-end 🚀
+### Olá! 👋 Eu sou Erick Dean, Desenvolvedor Front-end 🚀
 
 Sou um desenvolvedor apaixonado por **TypeScript**, com foco na construção de aplicações web escaláveis, eficientes e com interfaces de usuário complexas e interativas. Minha experiência abrange todo o ciclo de vida do desenvolvimento Front-end, desde a concepção até a otimização de performance.
 
