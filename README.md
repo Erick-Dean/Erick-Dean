@@ -41,7 +41,7 @@ Estas são algumas das principais tecnologias e ferramentas com as quais eu trab
 
 ### 🐍 Meus Commits em Ação
 
-Uma visualização da minha atividade de contribuição no GitHub (o "gráfico da cobrinha"):
+Uma visualização da minha atividade de contribuição no GitHub:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Erick-Dean/Erick-Dean/output/github-contribution-grid-snake.svg" alt="Snake animation of contributions" />
