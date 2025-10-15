@@ -1,19 +1,19 @@
-# Force update
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
-  workflow_dispatch: # Permite execução manual
+    - cron: "0 0 * * *" # Executes daily at midnight
+  workflow_dispatch: # Allows manual execution
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Platypus-Code/github-contribution-grid-snake@v1
+      # *** CHANGE THIS LINE ***
+      - uses: JasonEtco/github-contribution-grid-snake@v2 
         id: snake-gif
         with:
-          github_user_name: ERICK-DEAN
+          github_user_name: Erick-Dean # Use the correct capitalization for your user name
           snake_snes: true
           output_path: /output/github-contribution-grid-snake.svg
