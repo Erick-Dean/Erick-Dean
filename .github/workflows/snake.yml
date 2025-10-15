@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -11,16 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # *** Usando o Platane/snk, que é a action mais atualizada (v3) ***
       - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Erick-Dean
           outputs: |
-            # Este output é o que está referenciado no seu README.md
-            dist/github-contribution-grid-snake.svg
+            # Adicione 'palette=github-dark' à URL de saída do SVG
+            dist/github-contribution-grid-snake.svg?palette=github-dark
       
-      # *** Este passo é crucial para enviar o arquivo gerado para o branch 'output' ***
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
