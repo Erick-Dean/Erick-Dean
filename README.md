@@ -12,8 +12,8 @@ Aqui você pode ver um pouco sobre meu esforço e as tecnologias que mais utiliz
 
 <div align="center">
   <a href="https://github.com/Erick-Dean">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Dean&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Dean&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Dean&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Dean&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
